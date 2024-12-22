@@ -34,10 +34,12 @@ body {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
+  background-color: var(--main-background-color);
 }
 
 :root {
   --main-color:#D39D55;
+  --main-color-card:linear-gradient(to left,#FF0000, #42FF00,#2400FF);
   --main-background-color:#000000;
 }
 
