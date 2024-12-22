@@ -1841,6 +1841,10 @@ ol {
     max-width: 690px !important;
   }
 
+  .hero__item.set-bg{
+    background-image: url("../img/hero/hero-123.jpg") !important;
+  }
+
   .services__title {
     margin-bottom: 50px;
   }
@@ -1969,6 +1973,10 @@ ol {
 @media only screen and (max-width: 767px) {
   .services__title {
     margin-bottom: 50px;
+  }
+
+  .hero__item.set-bg{
+    background-image: url("../img/hero/hero-123.jpg") !important;
   }
 
   .counter__item {
@@ -2156,6 +2164,10 @@ ol {
   .hero__text h2 {
     font-size: 30px;
     line-height: 40px;
+  }
+
+  .hero__item.set-bg{
+    background-image: url("../img/hero/hero-123.jpg") !important;
   }
 
   .grid-sizer {
